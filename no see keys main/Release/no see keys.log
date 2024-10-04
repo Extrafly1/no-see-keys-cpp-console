@@ -1,0 +1,6 @@
+﻿  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+C:\Users\Admin\OneDrive\Рабочий стол\main\no see keys\english_keys.cpp(105): warning C4715: translateenglish: значение возвращается не при всех путях выполнения
+  All 15 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  no see keys.vcxproj -> C:\Users\Admin\OneDrive\Рабочий стол\main\Release\no see keys.exe

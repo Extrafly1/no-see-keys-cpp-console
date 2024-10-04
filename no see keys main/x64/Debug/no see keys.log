@@ -1,0 +1,3 @@
+﻿  no see keys.cpp
+C:\Users\Admin\OneDrive\Рабочий стол\main\no see keys\no see keys.cpp(15,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  no see keys.vcxproj -> C:\Users\Admin\OneDrive\Рабочий стол\main\x64\Debug\no see keys.exe
