@@ -1,0 +1,9 @@
+﻿  no see keys.cpp
+C:\abc\visual studio\keys\no see keys main\no see keys\no see keys.cpp(15,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  english_keys.cpp
+  russian_keys.cpp
+  writer.cpp
+  Создание кода...
+C:\abc\visual studio\keys\no see keys main\no see keys\russian_keys.cpp(105,1): warning C4715: translaterussin: значение возвращается не при всех путях выполнения
+C:\abc\visual studio\keys\no see keys main\no see keys\english_keys.cpp(105,1): warning C4715: translateenglish: значение возвращается не при всех путях выполнения
+  no see keys.vcxproj -> C:\abc\visual studio\keys\no see keys main\x64\Debug\no see keys.exe

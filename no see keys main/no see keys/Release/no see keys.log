@@ -1,0 +1,11 @@
+﻿  no see keys.cpp
+C:\abc\visual studio\keys\no see keys main\no see keys\no see keys.cpp(15,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  english_keys.cpp
+  russian_keys.cpp
+  writer.cpp
+  Создание кода
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+C:\abc\visual studio\keys\no see keys main\no see keys\english_keys.cpp(105): warning C4715: translateenglish: значение возвращается не при всех путях выполнения
+  All 15 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  no see keys.vcxproj -> C:\abc\visual studio\keys\no see keys main\Release\no see keys.exe
